@@ -1,15 +1,7 @@
-import logo from './logo.svg';
 import './App.css';
 import { BrowserRouter as Router , Route , Switch } from 'react-router-dom';
-
-
-
 import Home from './components/pages/Home';
 import Contact from './components/pages/Contact';
-
-import Services from './components/pages/Services';
-
-
 import About from './components/pages/About';
 import Navbar from  './components/inc/Navbar' ;
 

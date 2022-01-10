@@ -1,7 +1,7 @@
-import React, { Component} from 'react';
+import React from 'react';
 import Slider from '../inc/Slider';
 import Mv from './includes/Mv' ;
-import Footer from '../inc/Footer'
+import Footer from '../inc/Footer';
 
 class Home extends React.Component{
     render(){
