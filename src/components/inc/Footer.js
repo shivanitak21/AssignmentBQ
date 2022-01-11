@@ -32,12 +32,12 @@ function Footer(){
                             <hr/>
                             <h6>Contact Us </h6>
                             <div><p>+91 971999770, +1 833-880-3355</p></div>
-                            <div><p>info@bytequests.com</p></div>
-                            <div><p>84,Block A ,Sector 4 Noida,UP,210301</p></div>
+                            <div><p>abc12@gmail.com</p></div>
+                            <div><p>84,Block G ,Sector 2 Noida,UP,210301</p></div>
                         </div>
                         <div>
                         <hr/>
-                            <p><center>Copyright 2020 ByteQuest Software Private Limited . All Rights Reserved</center></p>
+                            <p><center>Copyright 2020 ABC Software Private Limited . All Rights Reserved</center></p>
                         </div>
                     </div>
             </div>

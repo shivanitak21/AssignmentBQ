@@ -3,6 +3,7 @@ import Mv from '../pages/includes/Mv';
 import Footer from '../inc/Footer';
 
 function Contact(){
+        
     return(
         <div>
             <section className ="py-4 text-center bg-primary">
